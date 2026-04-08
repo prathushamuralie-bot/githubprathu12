@@ -33,4 +33,15 @@ It helps visualize and understand COVID-19 trends.
 * `streamlit_covid19_dashboard.py`
 * Dataset files
 * Jupyter notebooks
+  ## 🚀 Run on Google Colab
+
+You can open and run this project directly in Google Colab:
+
+👉 [Open in Colab](https://colab.research.google.com/drive/16Rk5kMk0PN-X8B870VsNoYOJfuGxTz9X?usp=drive_link)
+## 📊 Dashboard Output
+
+You can view the dashboard report here:
+
+- [Download Dashboard PDF](dashboard1.pdf)
+
   
